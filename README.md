@@ -1,19 +1,4 @@
 # My-Portfolio
-# 🎮 Roblox Game Design Portfolio
  
-Hi! I'm Tachyon, an aspiring Roblox Game Designer and Creative Lead who is ready to learn and adapt for anything.
-This portfolio showcases my work designing many of the Roblox game ideas I had, including:
-
-- Character Design Sheets
-- Map Design Examples
-- Balance Documents
-- Update Concepts
-- UI Mockups
-
+ Hi! I'm Tachyon, a 14 year old 3D Modeler and FX Artist who specialises in low-poly builds. I picked this up last year and decided I will not commit myself to any project but just work on myself and spent over 100 hours. I will be responsive in Discord at @tachyondadev. I am in Asia, timezone is GMT+8
 ## Projects
-
-### Half-Blood Shenanigans
-A free for all mythological meshed battlegrounds game inspired from many games in Roblox and ideas in books
-
-### Dodgeball Clash
-A 5v5 dodgeball game that focuses on basic mechanics of the game in real life and meshes with supernatural abilities.
