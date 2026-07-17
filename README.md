@@ -13,5 +13,10 @@ Even if a client asks me a different method of creation the assests, I would res
 ### Method
 I have created a particular type of method which will allow me to speed up my designing process without it losing its accuracy. Firstly, I will need to understand a game's basic loop (how it works) and the type of assests, (low-poly? colourful?, mid-poly?). Next, for each asset, I would need a description of how it looks like (longer the better..) and what will it be used for. After that, I will give you a timeframe that I can complete it by (usually I would prefer if its a group of assests at the same time...). The 3D Software I primarily use is called BlockBench but for complex models with colours I use Blender for painting.
 
+## Design & Art
+I mostly have not done commission work or client based work in design but I have done it in many of the game ideas that I have gotten or just for competitons. I am particularly good in replicating art style from exisiting games. One of my replication is for style suggestion for a game called Volleyball Legends. I believed that I was able to copy the style <img width="450" height="234" alt="Screenshot 2026-07-17 at 4 32 24 PM" src="https://github.com/user-attachments/assets/e93b4b29-b8ec-467c-b28c-c2d3b6bdedaf" />
+
+
+
 
 
